@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MoonTom/AndroidStudioProjects/CleanArchitecture/223010_SunFlower/app/src/main/res/layout/activity_garden.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MoonTom/AndroidStudioProjects/CleanArchitecture/223010_SunFlower/app/src/main/res/layout/fragment_gallery.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MoonTom/AndroidStudioProjects/CleanArchitecture/223010_SunFlower/app/src/main/res/layout/fragment_garden.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MoonTom/AndroidStudioProjects/CleanArchitecture/223010_SunFlower/app/src/main/res/layout/fragment_plant_detail.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MoonTom/AndroidStudioProjects/CleanArchitecture/223010_SunFlower/app/src/main/res/layout/fragment_plant_list.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MoonTom/AndroidStudioProjects/CleanArchitecture/223010_SunFlower/app/src/main/res/layout/fragment_view_pager.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MoonTom/AndroidStudioProjects/CleanArchitecture/223010_SunFlower/app/src/main/res/layout/list_item_garden_planting.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/MoonTom/AndroidStudioProjects/Ex_Kotlin_2/223010_SunFlower/app/src/main/res/drawable-v24/garden_tab_selector.xml" value="0.196875" />
         <entry key="..\:/Users/MoonTom/AndroidStudioProjects/Ex_Kotlin_2/223010_SunFlower/app/src/main/res/layout/activity_garden.xml" value="0.18072916666666666" />
         <entry key="..\:/Users/MoonTom/AndroidStudioProjects/Ex_Kotlin_2/223010_SunFlower/app/src/main/res/layout/activity_main.xml" value="0.18072916666666666" />

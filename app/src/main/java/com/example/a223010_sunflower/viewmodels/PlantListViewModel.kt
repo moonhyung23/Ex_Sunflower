@@ -4,6 +4,7 @@ import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import com.example.a223010_sunflower.data.PlantRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.flow.MutableStateFlow
 import javax.inject.Inject
 
 /* PlantListFragment의 ViewModel */
@@ -15,9 +16,14 @@ class PlantListViewModel @Inject internal constructor(
     private val savedStateHandle: SavedStateHandle,
 ) : ViewModel() {
 
+    //saveStateHandle로 MutableStateFlow 가져오기
+    private val growZone: MutableStateFlow<Int> = MutableStateFlow(
+        savedStateHandle.get(GROW_ZONE_SAVED_STATE_KEY) ?: NO_GROW_ZONE)
+
     init {
 
     }
+
 
     companion object {
         private const val NO_GROW_ZONE = -1
